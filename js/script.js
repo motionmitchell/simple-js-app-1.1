@@ -1,4 +1,4 @@
 alert('Hello world');
 
-let pokemonPokedex = 'Pokedex';
-document.write(helloworld);
+let favoriteFood = 'Vegemite on toast';
+document.write(favoriteFood);
